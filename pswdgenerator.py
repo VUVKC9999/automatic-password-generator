@@ -18,3 +18,4 @@ for x in range(10):
         password = password + random.choices(passl)[0]
 
         print("Your new password :\n", password)
+        
